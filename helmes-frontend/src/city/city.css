@@ -1,0 +1,19 @@
+.city-card {
+    display: flex;
+    width: 50%;
+    height: 10em;
+    border: 1px black solid;
+    justify-content:space-between;
+    padding: 1em;
+}
+
+.city-card-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.city-card-image {
+    height: 100%;
+    width: auto;
+}
